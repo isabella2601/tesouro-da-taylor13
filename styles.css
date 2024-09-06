@@ -1,0 +1,33 @@
+body {
+    background-color:violet;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height:10%
+    margin: 0px;
+    
+}
+button {
+    background-color: #a7127a;
+    color: white;
+    width: flex;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 400px;
+    max-height: 300px;
+    margin-left: 400px;
+}
